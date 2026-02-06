@@ -1,5 +1,5 @@
 Nombre = "Enyelber"
-Edad = "19"
+Edad = "1999"
 print("Hola, me llamo", Nombre, "y tengo", Edad, "años")
 
 num1 = 10
